@@ -40,7 +40,7 @@ Follow these steps to set the project up and running on your local machine:
 
 1. Clone the repository or download the project ZIP file:
   ```bash
-    git clone https://github.com/Rusoch/admin-panel.git ./
+    git clone https://github.com/Dan-Dev-Jay ./
   ```
 2. Install project dependencies:
 
@@ -55,8 +55,6 @@ Follow these steps to set the project up and running on your local machine:
     ```
 4. Open your browser and navigate to `http://localhost:3000` to view the app.
 <<<<<<< HEAD
-5. You’re now ready to start working on the code!
-6. To login, visit http://localhost:3000/login and use correct credentials for email: ruso@gmail.com; password: password123.
 
 ### Folder Structure
 - components/UseForm
